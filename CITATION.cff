@@ -3,6 +3,7 @@ message: "If you use this code, data or results, please cite them as below."
 type: software
 title: "Complete Fuzzy-Soft Member Lattices: Isomorphic and Pullback Collaboration with Exact Path Optimization (reproducibility repository)"
 version: "2.1.0"
+https://doi.org/10.5281/zenodo.24189265
 license: MIT
 authors:
   - family-names: Wasim
