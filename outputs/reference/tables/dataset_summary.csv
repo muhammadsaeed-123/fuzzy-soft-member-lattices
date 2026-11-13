@@ -1,0 +1,9 @@
+Item,Value
+Raw item rows,180519
+Unique orders,65752
+Training orders,52599
+Chronological holdout orders,13153
+Observation start,2015-01-01 00:00:00
+Observation end,2018-01-31 23:38:00
+Markets,5
+Shipping modes,4

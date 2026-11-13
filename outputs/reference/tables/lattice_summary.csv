@@ -1,0 +1,4 @@
+Layer,Lattice,Algebraic nodes,Covers,Height,Observed training nodes
+Commercial / order formation,C4 x C4 x C4,64,144,9,64
+Logistics execution,C4 x C4 x C2,32,64,7,12
+Market / financial response,C5 x C5 x C4,100,235,11,45

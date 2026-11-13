@@ -1,0 +1,33 @@
+name: repository-checks
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.11", "3.13"]
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install TeX (pdfLaTeX, TikZ, standalone, Latin Modern) and Poppler
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends texlive-latex-base texlive-latex-recommended texlive-latex-extra texlive-pictures texlive-fonts-recommended lmodern poppler-utils
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - run: python -m pip install --upgrade pip
+      - run: python -m pip install -r requirements.txt
+      - run: python verify_manifest.py
+      - run: python -m pytest -q
+      - run: python code/generate_theory_figures.py --out ci_output/theory
+        env:
+          PYTHONPATH: code
+          MPLBACKEND: Agg
+      - run: python code/generate_reference_figures.py --out ci_output/empirical
+        env:
+          PYTHONPATH: code
+          MPLBACKEND: Agg

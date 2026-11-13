@@ -1,0 +1,4 @@
+Structure,Nodes,Unordered distinct pairs,Ambient join nonclosure count,Ambient join nonclosure rate,Ambient meet nonclosure count,Ambient meet nonclosure rate,Pairs without internal join,Pairs without internal meet,Intrinsic lattice,Classification,Covers
+Full algebraic pullback,3200,5118400,0,0,0,0,0,0,True,ambient sublattice,14240
+Marginal-support induced order,512,130816,17088,0.13062622309197652,10240,0.078277886497064575,1536,576,False,induced poset that is not an intrinsic lattice,1612
+Joint-support induced order,181,16290,6181,0.37943523634131371,1760,0.10804174340085942,2096,1046,False,induced poset that is not an intrinsic lattice,485

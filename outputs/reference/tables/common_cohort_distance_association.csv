@@ -1,0 +1,5 @@
+Method,Compatible holdout orders,Spearman correlation of negative distance with signed status,Two-sided p-value
+Full joint-support model,976,0.035083464428079691,0.27352759655417269
+Quality-only,976,-0.0098220918316198405,0.7592497705184369
+Ordinal-score ablation,976,-0.0099462385856992474,0.75630248901343655
+Marginal-support construction,976,0.035285888938515544,0.27076754952545262

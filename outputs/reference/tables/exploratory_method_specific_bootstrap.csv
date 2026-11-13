@@ -1,0 +1,4 @@
+Comparison,Point difference,CI low,CI high,Replicates,Interpretation
+Full - Quality-only,0.0625,-0.014215992999616433,0.14488005050505051,2000,exploratory contrast of method-specific radius-one cohorts
+Full - Ordinal-score ablation,0.0625,-0.019094269901868108,0.15001409261728688,2000,exploratory contrast of method-specific radius-one cohorts
+Full - Marginal-support construction,0.049999999999999989,-0.012810934807869526,0.11580228884348147,2000,exploratory contrast of method-specific radius-one cohorts

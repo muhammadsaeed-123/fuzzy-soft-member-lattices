@@ -1,0 +1,37 @@
+Cohort,Order status,Signed score,Coding label,Orders,Share
+All orders,COMPLETE,1,positive,21716,0.33027132254532182
+All orders,PENDING_PAYMENT,0,neutral,14382,0.21873098917143205
+All orders,PROCESSING,0,neutral,7901,0.12016364521231293
+All orders,PENDING,0,neutral,7321,0.11134262075678307
+All orders,CLOSED,1,positive,7249,0.110247597031269
+All orders,ON_HOLD,0,neutral,3624,0.055116194184207323
+All orders,SUSPECTED_FRAUD,-1,negative,1488,0.022630490327290424
+All orders,CANCELED,-1,negative,1367,0.02079024212191264
+All orders,PAYMENT_REVIEW,0,neutral,704,0.010706898649470739
+Training orders,COMPLETE,1,positive,17382,0.33046255632236354
+Training orders,PENDING_PAYMENT,0,neutral,11535,0.21930074716249359
+Training orders,PROCESSING,0,neutral,6308,0.11992623433905587
+Training orders,PENDING,0,neutral,5808,0.11042035019677181
+Training orders,CLOSED,1,positive,5772,0.10973592653852735
+Training orders,ON_HOLD,0,neutral,2934,0.055780528146922942
+Training orders,SUSPECTED_FRAUD,-1,negative,1194,0.022700051331774367
+Training orders,CANCELED,-1,negative,1097,0.020855909808171258
+Training orders,PAYMENT_REVIEW,0,neutral,569,0.010817696153919277
+Chronological holdout,COMPLETE,1,positive,4334,0.32950657644643805
+Chronological holdout,PENDING_PAYMENT,0,neutral,2847,0.21645252033756557
+Chronological holdout,PROCESSING,0,neutral,1593,0.12111305405610888
+Chronological holdout,PENDING,0,neutral,1513,0.11503079145442105
+Chronological holdout,CLOSED,1,positive,1477,0.11229377328366152
+Chronological holdout,ON_HOLD,0,neutral,690,0.052459514939557514
+Chronological holdout,SUSPECTED_FRAUD,-1,negative,294,0.022352315061202766
+Chronological holdout,CANCELED,-1,negative,270,0.020527636280696419
+Chronological holdout,PAYMENT_REVIEW,0,neutral,135,0.01026381814034821
+Exactly coordinated holdout,COMPLETE,1,positive,298,0.30532786885245899
+Exactly coordinated holdout,PENDING_PAYMENT,0,neutral,226,0.23155737704918034
+Exactly coordinated holdout,CLOSED,1,positive,120,0.12295081967213115
+Exactly coordinated holdout,PROCESSING,0,neutral,105,0.10758196721311475
+Exactly coordinated holdout,PENDING,0,neutral,100,0.10245901639344263
+Exactly coordinated holdout,ON_HOLD,0,neutral,68,0.069672131147540978
+Exactly coordinated holdout,SUSPECTED_FRAUD,-1,negative,26,0.02663934426229508
+Exactly coordinated holdout,PAYMENT_REVIEW,0,neutral,18,0.018442622950819672
+Exactly coordinated holdout,CANCELED,-1,negative,15,0.015368852459016393

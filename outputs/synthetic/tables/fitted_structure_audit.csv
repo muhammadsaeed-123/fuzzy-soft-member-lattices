@@ -1,0 +1,2 @@
+Structure,Nodes,Unordered distinct pairs,Ambient join nonclosure count,Ambient join nonclosure rate,Ambient meet nonclosure count,Ambient meet nonclosure rate,Pairs without internal join,Pairs without internal meet,Intrinsic lattice,Classification
+Fitted synthetic support order,137,9316,1103,0.11839845427221983,977,0.10487333619579219,892,760,False,induced poset that is not an intrinsic lattice

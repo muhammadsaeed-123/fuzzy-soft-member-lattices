@@ -1,0 +1,37 @@
+{
+  "title": "Complete Fuzzy-Soft Member Lattices: Isomorphic and Pullback Collaboration with Exact Path Optimization — reproducibility repository",
+  "upload_type": "software",
+  "description": "<p>Reproducibility repository (Online Resource 2) for the article <em>Complete Fuzzy-Soft Member Lattices: Isomorphic and Pullback Collaboration with Exact Path Optimization</em>.</p><p>It contains the Python analysis workflow, pinned requirements, regression tests, the DataCo transaction input with its variable descriptions, exact mathematical examples, native TikZ figure sources, all reference and synthetic result tables, publication figures (PDF, EPS, PNG), LaTeX table fragments, validation records and a SHA-256 manifest.</p><p>Code is released under the MIT License. The included DataCo SMART Supply Chain dataset (Constante, Silva and Pereira, 2019, Mendeley Data, version 5, doi:10.17632/8gx2fvg2k6.5) remains under its own Creative Commons Attribution 4.0 International license; see DATA_LICENSE.md.</p>",
+  "creators": [
+    {
+      "name": "Wasim, Amna",
+      "affiliation": "Department of Mathematics, University of Management and Technology, Lahore, Pakistan"
+    },
+    {
+      "name": "Saeed, Muhammad",
+      "affiliation": "Department of Mathematics, University of Management and Technology, Lahore, Pakistan"
+    },
+    {
+      "name": "Saeed, Muhammad Haris",
+      "affiliation": "Department of Chemistry, University of Management and Technology, Lahore, Pakistan"
+    }
+  ],
+  "license": "mit",
+  "access_right": "open",
+  "keywords": [
+    "fuzzy-soft members",
+    "lattice collaboration",
+    "lattice modeling",
+    "pullback",
+    "exact path optimization",
+    "supply-chain decision support"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.17632/8gx2fvg2k6.5",
+      "relation": "references",
+      "scheme": "doi",
+      "resource_type": "dataset"
+    }
+  ]
+}

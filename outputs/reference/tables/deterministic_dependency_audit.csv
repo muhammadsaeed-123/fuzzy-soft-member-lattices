@@ -1,0 +1,4 @@
+Identity,Maximum absolute discrepancy,Mean absolute discrepancy,Exact within 1e-9
+gross_sales = avg_unit_value * total_qty,2.2737367544323206e-13,4.1064338664806864e-15,True
+net_sales = gross_sales - discount_amount,0.02001387999985127,0.00070671912172973151,False
+profit_margin = total_profit / net_sales,0,0,True

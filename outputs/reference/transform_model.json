@@ -1,0 +1,100 @@
+{
+  "unit_value": {
+    "raw_col": "avg_unit_value",
+    "orientation": "benefit",
+    "levels": 4,
+    "lo": 24.98999938,
+    "hi": 399.980011,
+    "mu_edges": [
+      -1e-12,
+      0.09333582558318276,
+      0.1697956401734482,
+      0.2800074745094886,
+      1.000000000001
+    ]
+  },
+  "discount_preservation": {
+    "raw_col": "discount_rate",
+    "orientation": "cost",
+    "levels": 4,
+    "lo": 0.0,
+    "hi": 0.25,
+    "mu_edges": [
+      -1e-12,
+      0.4523545101798296,
+      0.6000546220295377,
+      0.7525906904113311,
+      1.000000000001
+    ]
+  },
+  "order_scale": {
+    "raw_col": "total_qty",
+    "orientation": "benefit",
+    "levels": 4,
+    "lo": 1.0,
+    "hi": 17.0,
+    "mu_edges": [
+      -1e-12,
+      0.125,
+      0.3125,
+      0.5,
+      1.000000000001
+    ]
+  },
+  "net_revenue": {
+    "raw_col": "net_sales",
+    "orientation": "benefit",
+    "levels": 5,
+    "lo": 34.29000092,
+    "hi": 1294.8848102059976,
+    "mu_edges": [
+      -1e-12,
+      0.15127779614451425,
+      0.2881179597952786,
+      0.43333987880642294,
+      0.6033897824938862,
+      1.000000000001
+    ]
+  },
+  "order_profit": {
+    "raw_col": "total_profit",
+    "orientation": "benefit",
+    "levels": 5,
+    "lo": -637.4524022646,
+    "hi": 405.5320099403997,
+    "mu_edges": [
+      -1e-12,
+      0.6024063205286974,
+      0.6583170329729197,
+      0.7140494029398975,
+      0.7900754710173318,
+      1.000000000001
+    ]
+  },
+  "profit_margin": {
+    "raw_col": "profit_margin",
+    "orientation": "benefit",
+    "levels": 4,
+    "lo": -1.464390962490448,
+    "hi": 0.48999832726881737,
+    "mu_edges": [
+      -1e-12,
+      0.7733186311459497,
+      0.863838383036496,
+      0.9188216923850212,
+      1.000000000001
+    ]
+  },
+  "actual_speed": {
+    "levels": 4,
+    "rule": "reverse observed actual days into four operational intervals"
+  },
+  "planned_speed": {
+    "levels": 4,
+    "rule": "scheduled days 4,2,1,0 map to levels 1,2,3,4"
+  },
+  "reliability": {
+    "levels": 2,
+    "rule": "advance/on-time = 1, otherwise 0"
+  }
+}

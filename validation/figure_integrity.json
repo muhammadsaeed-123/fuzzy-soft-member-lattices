@@ -1,0 +1,1034 @@
+{
+  "overall_status": "PASS",
+  "figure_slots": 29,
+  "figure_files": 87,
+  "mathematical_slots": 11,
+  "figures": [
+    {
+      "document": "article",
+      "figure": "Fig1",
+      "source": "theory/roadmap",
+      "pixels": [
+        6787,
+        3036
+      ],
+      "dpi": [
+        1199.9976,
+        1199.9976
+      ],
+      "native_vector_pdf": true,
+      "font_embedding": [
+        {
+          "font": "UITMML+LMSans10-Bold",
+          "embedded": true
+        },
+        {
+          "font": "QZKAME+LMSans9-Regular",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    },
+    {
+      "document": "article",
+      "figure": "Fig2",
+      "source": "theory/ambient_vs_intrinsic",
+      "pixels": [
+        6658,
+        3727
+      ],
+      "dpi": [
+        1199.9976,
+        1199.9976
+      ],
+      "native_vector_pdf": true,
+      "font_embedding": [
+        {
+          "font": "BGEXIQ+LMSans10-Bold",
+          "embedded": true
+        },
+        {
+          "font": "HKEYNN+LMMathSymbols10-Regular",
+          "embedded": true
+        },
+        {
+          "font": "GPYWHR+LMRoman10-Regular",
+          "embedded": true
+        },
+        {
+          "font": "NBNBSE+LMMathItalic10-Regular",
+          "embedded": true
+        },
+        {
+          "font": "ULZEWH+MSBM10",
+          "embedded": true
+        },
+        {
+          "font": "ORKUND+LMMathSymbols9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "HAORXN+LMRoman9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "DDDHLS+LMMathItalic9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "BQVGSH+LMSans9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "JWSUYI+LMMathItalic6-Regular",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    },
+    {
+      "document": "article",
+      "figure": "Fig3",
+      "source": "theory/member_lattice_c3xc3",
+      "pixels": [
+        6382,
+        3204
+      ],
+      "dpi": [
+        1199.9976,
+        1199.9976
+      ],
+      "native_vector_pdf": true,
+      "font_embedding": [
+        {
+          "font": "FWXDYJ+LMMathExtension10-Regular",
+          "embedded": true
+        },
+        {
+          "font": "EYFDSJ+LMMathItalic9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "OYEPHH+LMRoman6-Regular",
+          "embedded": true
+        },
+        {
+          "font": "XJUYYG+LMMathItalic10-Regular",
+          "embedded": true
+        },
+        {
+          "font": "ELNBTW+LMRoman7-Regular",
+          "embedded": true
+        },
+        {
+          "font": "GTFUZH+LMMathSymbols10-Regular",
+          "embedded": true
+        },
+        {
+          "font": "TFYFPG+LMSans10-Bold",
+          "embedded": true
+        },
+        {
+          "font": "UTZOJU+LMMathItalic6-Regular",
+          "embedded": true
+        },
+        {
+          "font": "LMQJMU+LMRoman9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "CECABI+LMMathSymbols9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "XDSVGQ+LMSans9-Regular",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    },
+    {
+      "document": "article",
+      "figure": "Fig4",
+      "source": "theory/isomorphic_payload",
+      "pixels": [
+        6850,
+        4668
+      ],
+      "dpi": [
+        1199.9976,
+        1199.9976
+      ],
+      "native_vector_pdf": true,
+      "font_embedding": [
+        {
+          "font": "IZLDUN+LMMathItalic9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "FPXUEH+LMRoman6-Regular",
+          "embedded": true
+        },
+        {
+          "font": "OADTZN+LMMathItalic10-Regular",
+          "embedded": true
+        },
+        {
+          "font": "ESXXTU+LMMathItalic7-Regular",
+          "embedded": true
+        },
+        {
+          "font": "UKVXHQ+LMSans10-Bold",
+          "embedded": true
+        },
+        {
+          "font": "PUFXFE+LMRoman9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "NWKACV+LMMathItalic6-Regular",
+          "embedded": true
+        },
+        {
+          "font": "EZFNOX+LMMathSymbols9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "ONAHZY+LMMathSymbols6-Regular",
+          "embedded": true
+        },
+        {
+          "font": "XCJCMU+LMRoman10-Regular",
+          "embedded": true
+        },
+        {
+          "font": "KWHTZN+LMRoman7-Regular",
+          "embedded": true
+        },
+        {
+          "font": "BRUWLG+LMSans9-Regular",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    },
+    {
+      "document": "article",
+      "figure": "Fig5",
+      "source": "theory/pullback_chain_diamond",
+      "pixels": [
+        6153,
+        5018
+      ],
+      "dpi": [
+        1199.9976,
+        1199.9976
+      ],
+      "native_vector_pdf": true,
+      "font_embedding": [
+        {
+          "font": "HJGTJV+LMMathItalic10-Regular",
+          "embedded": true
+        },
+        {
+          "font": "YEVKNN+LMMathItalic7-Regular",
+          "embedded": true
+        },
+        {
+          "font": "XIFNRX+LMRoman10-Regular",
+          "embedded": true
+        },
+        {
+          "font": "ZGQBJW+LMRoman7-Regular",
+          "embedded": true
+        },
+        {
+          "font": "IXKXVH+LMMathItalic9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "BYPLQB+LMRoman6-Regular",
+          "embedded": true
+        },
+        {
+          "font": "GHEXZG+LMRoman9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "GPQUNN+LMMathItalic6-Regular",
+          "embedded": true
+        },
+        {
+          "font": "OWZIJP+LMMathSymbols9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "GTFUZH+LMMathSymbols10-Regular",
+          "embedded": true
+        },
+        {
+          "font": "LQOSRO+LMSans10-Bold",
+          "embedded": true
+        },
+        {
+          "font": "ONAHZY+LMMathSymbols6-Regular",
+          "embedded": true
+        },
+        {
+          "font": "CGUXXX+LMSans9-Regular",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    },
+    {
+      "document": "article",
+      "figure": "Fig6",
+      "source": "theory/exact_paths",
+      "pixels": [
+        6277,
+        4643
+      ],
+      "dpi": [
+        1199.9976,
+        1199.9976
+      ],
+      "native_vector_pdf": true,
+      "font_embedding": [
+        {
+          "font": "ECBTKK+LMSans10-Bold",
+          "embedded": true
+        },
+        {
+          "font": "IOMZZE+LMMathItalic9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "NWKACV+LMMathItalic6-Regular",
+          "embedded": true
+        },
+        {
+          "font": "BRYOLG+LMRoman9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "VLVNFB+LMSans9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "XGNKOW+LMRoman6-Regular",
+          "embedded": true
+        },
+        {
+          "font": "RKEUKP+LMMathSymbols9-Regular",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    },
+    {
+      "document": "article",
+      "figure": "Fig7",
+      "source": "empirical/closure_audit",
+      "pixels": [
+        4574,
+        2652
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "native_vector_pdf": true,
+      "font_embedding": [
+        {
+          "font": "BMQQDV+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    },
+    {
+      "document": "article",
+      "figure": "Fig8",
+      "source": "empirical/optimal_path_heatmap",
+      "pixels": [
+        5426,
+        2878
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "native_vector_pdf": false,
+      "font_embedding": [
+        {
+          "font": "BMQQDV+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    },
+    {
+      "document": "article",
+      "figure": "Fig9",
+      "source": "empirical/coverage_limitations",
+      "pixels": [
+        4766,
+        2655
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "native_vector_pdf": true,
+      "font_embedding": [
+        {
+          "font": "BMQQDV+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    },
+    {
+      "document": "article",
+      "figure": "Fig10",
+      "source": "empirical/external_outcome_bootstrap",
+      "pixels": [
+        4501,
+        2581
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "native_vector_pdf": true,
+      "font_embedding": [
+        {
+          "font": "BMQQDV+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    },
+    {
+      "document": "article",
+      "figure": "Fig11",
+      "source": "empirical/full_refit_stability",
+      "pixels": [
+        4573,
+        2522
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "native_vector_pdf": true,
+      "font_embedding": [
+        {
+          "font": "BMQQDV+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    },
+    {
+      "document": "resource1",
+      "figure": "FigS1",
+      "source": "theory/ambient_vs_intrinsic",
+      "pixels": [
+        6658,
+        3727
+      ],
+      "dpi": [
+        1199.9976,
+        1199.9976
+      ],
+      "native_vector_pdf": true,
+      "font_embedding": [
+        {
+          "font": "BGEXIQ+LMSans10-Bold",
+          "embedded": true
+        },
+        {
+          "font": "HKEYNN+LMMathSymbols10-Regular",
+          "embedded": true
+        },
+        {
+          "font": "GPYWHR+LMRoman10-Regular",
+          "embedded": true
+        },
+        {
+          "font": "NBNBSE+LMMathItalic10-Regular",
+          "embedded": true
+        },
+        {
+          "font": "ULZEWH+MSBM10",
+          "embedded": true
+        },
+        {
+          "font": "ORKUND+LMMathSymbols9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "HAORXN+LMRoman9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "DDDHLS+LMMathItalic9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "BQVGSH+LMSans9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "JWSUYI+LMMathItalic6-Regular",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    },
+    {
+      "document": "resource1",
+      "figure": "FigS2",
+      "source": "theory/member_lattice_c3xc3",
+      "pixels": [
+        6382,
+        3204
+      ],
+      "dpi": [
+        1199.9976,
+        1199.9976
+      ],
+      "native_vector_pdf": true,
+      "font_embedding": [
+        {
+          "font": "FWXDYJ+LMMathExtension10-Regular",
+          "embedded": true
+        },
+        {
+          "font": "EYFDSJ+LMMathItalic9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "OYEPHH+LMRoman6-Regular",
+          "embedded": true
+        },
+        {
+          "font": "XJUYYG+LMMathItalic10-Regular",
+          "embedded": true
+        },
+        {
+          "font": "ELNBTW+LMRoman7-Regular",
+          "embedded": true
+        },
+        {
+          "font": "GTFUZH+LMMathSymbols10-Regular",
+          "embedded": true
+        },
+        {
+          "font": "TFYFPG+LMSans10-Bold",
+          "embedded": true
+        },
+        {
+          "font": "UTZOJU+LMMathItalic6-Regular",
+          "embedded": true
+        },
+        {
+          "font": "LMQJMU+LMRoman9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "CECABI+LMMathSymbols9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "XDSVGQ+LMSans9-Regular",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    },
+    {
+      "document": "resource1",
+      "figure": "FigS3",
+      "source": "theory/isomorphic_payload",
+      "pixels": [
+        6850,
+        4668
+      ],
+      "dpi": [
+        1199.9976,
+        1199.9976
+      ],
+      "native_vector_pdf": true,
+      "font_embedding": [
+        {
+          "font": "IZLDUN+LMMathItalic9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "FPXUEH+LMRoman6-Regular",
+          "embedded": true
+        },
+        {
+          "font": "OADTZN+LMMathItalic10-Regular",
+          "embedded": true
+        },
+        {
+          "font": "ESXXTU+LMMathItalic7-Regular",
+          "embedded": true
+        },
+        {
+          "font": "UKVXHQ+LMSans10-Bold",
+          "embedded": true
+        },
+        {
+          "font": "PUFXFE+LMRoman9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "NWKACV+LMMathItalic6-Regular",
+          "embedded": true
+        },
+        {
+          "font": "EZFNOX+LMMathSymbols9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "ONAHZY+LMMathSymbols6-Regular",
+          "embedded": true
+        },
+        {
+          "font": "XCJCMU+LMRoman10-Regular",
+          "embedded": true
+        },
+        {
+          "font": "KWHTZN+LMRoman7-Regular",
+          "embedded": true
+        },
+        {
+          "font": "BRUWLG+LMSans9-Regular",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    },
+    {
+      "document": "resource1",
+      "figure": "FigS4",
+      "source": "theory/pullback_chain_diamond",
+      "pixels": [
+        6153,
+        5018
+      ],
+      "dpi": [
+        1199.9976,
+        1199.9976
+      ],
+      "native_vector_pdf": true,
+      "font_embedding": [
+        {
+          "font": "HJGTJV+LMMathItalic10-Regular",
+          "embedded": true
+        },
+        {
+          "font": "YEVKNN+LMMathItalic7-Regular",
+          "embedded": true
+        },
+        {
+          "font": "XIFNRX+LMRoman10-Regular",
+          "embedded": true
+        },
+        {
+          "font": "ZGQBJW+LMRoman7-Regular",
+          "embedded": true
+        },
+        {
+          "font": "IXKXVH+LMMathItalic9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "BYPLQB+LMRoman6-Regular",
+          "embedded": true
+        },
+        {
+          "font": "GHEXZG+LMRoman9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "GPQUNN+LMMathItalic6-Regular",
+          "embedded": true
+        },
+        {
+          "font": "OWZIJP+LMMathSymbols9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "GTFUZH+LMMathSymbols10-Regular",
+          "embedded": true
+        },
+        {
+          "font": "LQOSRO+LMSans10-Bold",
+          "embedded": true
+        },
+        {
+          "font": "ONAHZY+LMMathSymbols6-Regular",
+          "embedded": true
+        },
+        {
+          "font": "CGUXXX+LMSans9-Regular",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    },
+    {
+      "document": "resource1",
+      "figure": "FigS5",
+      "source": "theory/exact_paths",
+      "pixels": [
+        6277,
+        4643
+      ],
+      "dpi": [
+        1199.9976,
+        1199.9976
+      ],
+      "native_vector_pdf": true,
+      "font_embedding": [
+        {
+          "font": "ECBTKK+LMSans10-Bold",
+          "embedded": true
+        },
+        {
+          "font": "IOMZZE+LMMathItalic9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "NWKACV+LMMathItalic6-Regular",
+          "embedded": true
+        },
+        {
+          "font": "BRYOLG+LMRoman9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "VLVNFB+LMSans9-Regular",
+          "embedded": true
+        },
+        {
+          "font": "XGNKOW+LMRoman6-Regular",
+          "embedded": true
+        },
+        {
+          "font": "RKEUKP+LMMathSymbols9-Regular",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    },
+    {
+      "document": "resource1",
+      "figure": "FigS6",
+      "source": "synthetic/synthetic_membership_comparison",
+      "pixels": [
+        4814,
+        2640
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "native_vector_pdf": true,
+      "font_embedding": [
+        {
+          "font": "BMQQDV+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    },
+    {
+      "document": "resource1",
+      "figure": "FigS7",
+      "source": "synthetic/synthetic_coverage_outcome",
+      "pixels": [
+        4813,
+        2636
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "native_vector_pdf": true,
+      "font_embedding": [
+        {
+          "font": "BMQQDV+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    },
+    {
+      "document": "resource1",
+      "figure": "FigS8",
+      "source": "synthetic/synthetic_path_recurrence",
+      "pixels": [
+        4393,
+        2342
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "native_vector_pdf": true,
+      "font_embedding": [
+        {
+          "font": "BMQQDV+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    },
+    {
+      "document": "resource1",
+      "figure": "FigS9",
+      "source": "synthetic/synthetic_scaling",
+      "pixels": [
+        3963,
+        2329
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "native_vector_pdf": true,
+      "font_embedding": [
+        {
+          "font": "BMQQDV+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    },
+    {
+      "document": "resource1",
+      "figure": "FigS10",
+      "source": "empirical/coordination_map_audit",
+      "pixels": [
+        4825,
+        2762
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "native_vector_pdf": true,
+      "font_embedding": [
+        {
+          "font": "BMQQDV+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    },
+    {
+      "document": "resource1",
+      "figure": "FigS11",
+      "source": "empirical/closure_audit",
+      "pixels": [
+        4574,
+        2652
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "native_vector_pdf": true,
+      "font_embedding": [
+        {
+          "font": "BMQQDV+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    },
+    {
+      "document": "resource1",
+      "figure": "FigS12",
+      "source": "empirical/optimal_path_heatmap",
+      "pixels": [
+        5426,
+        2878
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "native_vector_pdf": false,
+      "font_embedding": [
+        {
+          "font": "BMQQDV+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    },
+    {
+      "document": "resource1",
+      "figure": "FigS13",
+      "source": "empirical/path_utility_progression",
+      "pixels": [
+        4753,
+        2577
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "native_vector_pdf": true,
+      "font_embedding": [
+        {
+          "font": "BMQQDV+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    },
+    {
+      "document": "resource1",
+      "figure": "FigS14",
+      "source": "empirical/coverage_limitations",
+      "pixels": [
+        4766,
+        2655
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "native_vector_pdf": true,
+      "font_embedding": [
+        {
+          "font": "BMQQDV+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    },
+    {
+      "document": "resource1",
+      "figure": "FigS15",
+      "source": "empirical/external_outcome_bootstrap",
+      "pixels": [
+        4501,
+        2581
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "native_vector_pdf": true,
+      "font_embedding": [
+        {
+          "font": "BMQQDV+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    },
+    {
+      "document": "resource1",
+      "figure": "FigS16",
+      "source": "empirical/rolling_origin",
+      "pixels": [
+        4442,
+        2522
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "native_vector_pdf": true,
+      "font_embedding": [
+        {
+          "font": "BMQQDV+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    },
+    {
+      "document": "resource1",
+      "figure": "FigS17",
+      "source": "empirical/full_refit_stability",
+      "pixels": [
+        4573,
+        2522
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "native_vector_pdf": true,
+      "font_embedding": [
+        {
+          "font": "BMQQDV+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    },
+    {
+      "document": "resource1",
+      "figure": "FigS18",
+      "source": "empirical/operator_sensitivity",
+      "pixels": [
+        4573,
+        2535
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "native_vector_pdf": true,
+      "font_embedding": [
+        {
+          "font": "BMQQDV+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "formats_present": true,
+      "matches_repository_assembly": true
+    }
+  ]
+}

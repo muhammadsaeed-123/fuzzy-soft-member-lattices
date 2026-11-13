@@ -1,0 +1,13 @@
+Method,Target compatible fraction,Target k,Selected orders,Tie-breaking rule,Maximum selected distance,Mean signed status score
+Full joint-support model,0.050000000000000003,48,48,"distance, then ascending order identifier",1,0.54166666666666663
+Quality-only,0.050000000000000003,48,48,"distance, then ascending order identifier",1,0.4375
+Ordinal-score ablation,0.050000000000000003,48,48,"distance, then ascending order identifier",1,0.4375
+Marginal-support construction,0.050000000000000003,48,48,"distance, then ascending order identifier",0,0.60416666666666663
+Full joint-support model,0.10000000000000001,97,97,"distance, then ascending order identifier",1,0.50515463917525771
+Quality-only,0.10000000000000001,97,97,"distance, then ascending order identifier",2,0.4329896907216495
+Ordinal-score ablation,0.10000000000000001,97,97,"distance, then ascending order identifier",2,0.4329896907216495
+Marginal-support construction,0.10000000000000001,97,97,"distance, then ascending order identifier",1,0.49484536082474229
+Full joint-support model,0.20000000000000001,195,195,"distance, then ascending order identifier",2,0.44102564102564101
+Quality-only,0.20000000000000001,195,195,"distance, then ascending order identifier",3,0.39487179487179486
+Ordinal-score ablation,0.20000000000000001,195,195,"distance, then ascending order identifier",3,0.39487179487179486
+Marginal-support construction,0.20000000000000001,195,195,"distance, then ascending order identifier",2,0.4358974358974359

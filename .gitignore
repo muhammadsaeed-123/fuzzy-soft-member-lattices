@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+reproduction_output/
+smoke_output/
+smoke_analysis/
+ci_output/
+data/DATA_VALIDATION.json
+*.part

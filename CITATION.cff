@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this code, data or results, please cite them as below."
+type: software
+title: "Complete Fuzzy-Soft Member Lattices: Isomorphic and Pullback Collaboration with Exact Path Optimization (reproducibility repository)"
+version: "2.1.0"
+license: MIT
+authors:
+  - family-names: Wasim
+    given-names: Amna
+    affiliation: "Department of Mathematics, University of Management and Technology, Lahore, Pakistan"
+  - family-names: Saeed
+    given-names: Muhammad
+    email: muhammad.saeed@umt.edu.pk
+    affiliation: "Department of Mathematics, University of Management and Technology, Lahore, Pakistan"
+  - family-names: Saeed
+    given-names: Muhammad Haris
+    affiliation: "Department of Chemistry, University of Management and Technology, Lahore, Pakistan"
+keywords:
+  - fuzzy-soft members
+  - lattice collaboration
+  - lattice modeling
+  - pullback
+  - exact path optimization
+  - supply-chain decision support
+references:
+  - type: dataset
+    title: "DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS"
+    version: "5"
+    year: 2019
+    publisher:
+      name: Mendeley Data
+    doi: 10.17632/8gx2fvg2k6.5
+    license: CC-BY-4.0
+    authors:
+      - family-names: Constante
+        given-names: Fabian
+      - family-names: Silva
+        given-names: Fernando
+      - family-names: Pereira
+        given-names: António

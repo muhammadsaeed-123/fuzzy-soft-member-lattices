@@ -1,0 +1,2 @@
+Source,Reachable maximal targets,Source-to-maximal paths,Optimal path nodes,Optimal mean utility,Second-best mean utility,Absolute gap,Relative gap percent,Paths within 1%
+"(1, 1, 1) | (1, 1, 1) | (1, 1, 1)",2,24870,10,0.51791375379192028,0.51736231779599962,0.00055143599592066828,0.10647255298460678,4

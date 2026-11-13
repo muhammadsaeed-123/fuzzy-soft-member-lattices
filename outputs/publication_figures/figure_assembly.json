@@ -1,0 +1,619 @@
+{
+  "files": [
+    {
+      "source_specification": "theory/roadmap",
+      "relative_destination": "main_article/Fig1.pdf",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "7f1abd0d430ef5d2a77f95084c12e1c38319e02170dd7687562392d424be6425"
+    },
+    {
+      "source_specification": "theory/roadmap",
+      "relative_destination": "main_article/Fig1.eps",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "aa19ed6562e42c6cec4bfef017024d9e3d5e1c5cc0e3748d4a922cd355bdd7ba"
+    },
+    {
+      "source_specification": "theory/roadmap",
+      "relative_destination": "main_article/Fig1.png",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "4a584ea57c1037f519ff8c635416500b94ebda02a889ccb18f85991f056d568d"
+    },
+    {
+      "source_specification": "theory/ambient_vs_intrinsic",
+      "relative_destination": "main_article/Fig2.pdf",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "f1a5c39d59ea6d1db688f963188e41dcaf07f39d2853cf4306fb130e8bc395b1"
+    },
+    {
+      "source_specification": "theory/ambient_vs_intrinsic",
+      "relative_destination": "main_article/Fig2.eps",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "7e438670b631059c2ce63ba6c0f79e413475f7c13ac8bfeb90ed69ed0a0a84bc"
+    },
+    {
+      "source_specification": "theory/ambient_vs_intrinsic",
+      "relative_destination": "main_article/Fig2.png",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "a0083d6e0ff4b2517d6bede0259940926acc678057b4b8c16880360fc7061502"
+    },
+    {
+      "source_specification": "theory/member_lattice_c3xc3",
+      "relative_destination": "main_article/Fig3.pdf",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "3b40c98e698420c99b19056f1e9d95eda84069bbe3f6dc70b8fbd50047662862"
+    },
+    {
+      "source_specification": "theory/member_lattice_c3xc3",
+      "relative_destination": "main_article/Fig3.eps",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "3e33e637a441cbfe690edba8c8190991494ea554561273b749664c410e74d9b2"
+    },
+    {
+      "source_specification": "theory/member_lattice_c3xc3",
+      "relative_destination": "main_article/Fig3.png",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "01abeab2952cb23b93d9cc998515ba13cd40d2e42bc7bb846e1421b4e54e382e"
+    },
+    {
+      "source_specification": "theory/isomorphic_payload",
+      "relative_destination": "main_article/Fig4.pdf",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "9c1720eb12823e61387ba010505859c98bba4884b01b8237cd2b8a685c8ecc6f"
+    },
+    {
+      "source_specification": "theory/isomorphic_payload",
+      "relative_destination": "main_article/Fig4.eps",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "42a6094e93aab05b0bb30ea2a1b5611b0153891475596742207a7e6a3d70b8f3"
+    },
+    {
+      "source_specification": "theory/isomorphic_payload",
+      "relative_destination": "main_article/Fig4.png",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "3c40c7f802eb115f4e0281d9dbc47d04fb52dc4a31b6390845ff96936cbf4560"
+    },
+    {
+      "source_specification": "theory/pullback_chain_diamond",
+      "relative_destination": "main_article/Fig5.pdf",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "37bc5a3ef631ad8a6487773b83be3ab7283e77798738605a2f763f660b3324a9"
+    },
+    {
+      "source_specification": "theory/pullback_chain_diamond",
+      "relative_destination": "main_article/Fig5.eps",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "4ad0425d8bb33f6282b034ee001ef5c8447394d6dce701b5f7df2db77cd5898e"
+    },
+    {
+      "source_specification": "theory/pullback_chain_diamond",
+      "relative_destination": "main_article/Fig5.png",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "04d405e74769ecab5363642f2999556f18424dd849ed6f02368a1e362033b03a"
+    },
+    {
+      "source_specification": "theory/exact_paths",
+      "relative_destination": "main_article/Fig6.pdf",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "83145f57b776ba89dc8797ca9a3741107aa58a4124bc32e6fedb235317a1c363"
+    },
+    {
+      "source_specification": "theory/exact_paths",
+      "relative_destination": "main_article/Fig6.eps",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "13dada7c591fb8bd0b2fc806ae4d0bc9432ed01f248dfd179ebd58adbb88474c"
+    },
+    {
+      "source_specification": "theory/exact_paths",
+      "relative_destination": "main_article/Fig6.png",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "dedfc0a39523a122c328a749f4736b48da445ea9c0c3abb159049d26ec0bab46"
+    },
+    {
+      "source_specification": "empirical/closure_audit",
+      "relative_destination": "main_article/Fig7.pdf",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "f80469a442c70cedf8490c34ada2735b7e19a03c60966303c52ead762895ff7a"
+    },
+    {
+      "source_specification": "empirical/closure_audit",
+      "relative_destination": "main_article/Fig7.eps",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "1bfc5694f8441215c38eadbd0cfcb798140a79799d1dd7608c38b46cb590d505"
+    },
+    {
+      "source_specification": "empirical/closure_audit",
+      "relative_destination": "main_article/Fig7.png",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "e612dd22017be52aef1ba9109dd0a1d77ed41032bfc6fdbe457cb991f5a6fd17"
+    },
+    {
+      "source_specification": "empirical/optimal_path_heatmap",
+      "relative_destination": "main_article/Fig8.pdf",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "98c5e3f075a035a4332d6be41a851eb41b7642fd5237d4e2c849fdd1bc26f6e3"
+    },
+    {
+      "source_specification": "empirical/optimal_path_heatmap",
+      "relative_destination": "main_article/Fig8.eps",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "425d1bb1a37edf2684187bbf68ce9759de0fae859fd6cd4638e6a0682a5cf6c6"
+    },
+    {
+      "source_specification": "empirical/optimal_path_heatmap",
+      "relative_destination": "main_article/Fig8.png",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "62ffd7a8442c6da28bfdf73cf87b4cd62425fc2a1d83d5ee9dc2467212b059f1"
+    },
+    {
+      "source_specification": "empirical/coverage_limitations",
+      "relative_destination": "main_article/Fig9.pdf",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "37e0f2b808ac47e283cadc97b0583a416c0a2e0fbab72eef72c4ccf963f6c55d"
+    },
+    {
+      "source_specification": "empirical/coverage_limitations",
+      "relative_destination": "main_article/Fig9.eps",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "d511fd670b54106002bcb575787e28122fb69c545c45277b980b35a3748c9631"
+    },
+    {
+      "source_specification": "empirical/coverage_limitations",
+      "relative_destination": "main_article/Fig9.png",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "2627ff0162a33693add0f3bb030bd2fad988479ee7ae3030c15f95b7781fe63c"
+    },
+    {
+      "source_specification": "empirical/external_outcome_bootstrap",
+      "relative_destination": "main_article/Fig10.pdf",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "749c387a665374d441443909ccd56d86e375e0dbe694c0b474486f5cf4be686d"
+    },
+    {
+      "source_specification": "empirical/external_outcome_bootstrap",
+      "relative_destination": "main_article/Fig10.eps",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "70dd1287ed2497a8fc419f416e044cf85bfec9f8afc63cbac3d95ab8d5376ff9"
+    },
+    {
+      "source_specification": "empirical/external_outcome_bootstrap",
+      "relative_destination": "main_article/Fig10.png",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "09829c8974436938f9c7aea7d65286df603e7dd6e2a0656d6772d63c6b6ede21"
+    },
+    {
+      "source_specification": "empirical/full_refit_stability",
+      "relative_destination": "main_article/Fig11.pdf",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "6dacd479008fa0d1f2272a755451aa3abdb99aa55613e97eda0d0ab1ca86fbb2"
+    },
+    {
+      "source_specification": "empirical/full_refit_stability",
+      "relative_destination": "main_article/Fig11.eps",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "4133a357a05b249ebbcfa8844e112961aa7f9420320934b7369c6cc9c9d6859c"
+    },
+    {
+      "source_specification": "empirical/full_refit_stability",
+      "relative_destination": "main_article/Fig11.png",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "9b7660185673f5d3c8cbee58e76bde8487f678e6e518776ca9061f8ba71f0558"
+    },
+    {
+      "source_specification": "theory/ambient_vs_intrinsic",
+      "relative_destination": "online_resource_1/FigS1.pdf",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "f1a5c39d59ea6d1db688f963188e41dcaf07f39d2853cf4306fb130e8bc395b1"
+    },
+    {
+      "source_specification": "theory/ambient_vs_intrinsic",
+      "relative_destination": "online_resource_1/FigS1.eps",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "7e438670b631059c2ce63ba6c0f79e413475f7c13ac8bfeb90ed69ed0a0a84bc"
+    },
+    {
+      "source_specification": "theory/ambient_vs_intrinsic",
+      "relative_destination": "online_resource_1/FigS1.png",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "a0083d6e0ff4b2517d6bede0259940926acc678057b4b8c16880360fc7061502"
+    },
+    {
+      "source_specification": "theory/member_lattice_c3xc3",
+      "relative_destination": "online_resource_1/FigS2.pdf",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "3b40c98e698420c99b19056f1e9d95eda84069bbe3f6dc70b8fbd50047662862"
+    },
+    {
+      "source_specification": "theory/member_lattice_c3xc3",
+      "relative_destination": "online_resource_1/FigS2.eps",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "3e33e637a441cbfe690edba8c8190991494ea554561273b749664c410e74d9b2"
+    },
+    {
+      "source_specification": "theory/member_lattice_c3xc3",
+      "relative_destination": "online_resource_1/FigS2.png",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "01abeab2952cb23b93d9cc998515ba13cd40d2e42bc7bb846e1421b4e54e382e"
+    },
+    {
+      "source_specification": "theory/isomorphic_payload",
+      "relative_destination": "online_resource_1/FigS3.pdf",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "9c1720eb12823e61387ba010505859c98bba4884b01b8237cd2b8a685c8ecc6f"
+    },
+    {
+      "source_specification": "theory/isomorphic_payload",
+      "relative_destination": "online_resource_1/FigS3.eps",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "42a6094e93aab05b0bb30ea2a1b5611b0153891475596742207a7e6a3d70b8f3"
+    },
+    {
+      "source_specification": "theory/isomorphic_payload",
+      "relative_destination": "online_resource_1/FigS3.png",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "3c40c7f802eb115f4e0281d9dbc47d04fb52dc4a31b6390845ff96936cbf4560"
+    },
+    {
+      "source_specification": "theory/pullback_chain_diamond",
+      "relative_destination": "online_resource_1/FigS4.pdf",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "37bc5a3ef631ad8a6487773b83be3ab7283e77798738605a2f763f660b3324a9"
+    },
+    {
+      "source_specification": "theory/pullback_chain_diamond",
+      "relative_destination": "online_resource_1/FigS4.eps",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "4ad0425d8bb33f6282b034ee001ef5c8447394d6dce701b5f7df2db77cd5898e"
+    },
+    {
+      "source_specification": "theory/pullback_chain_diamond",
+      "relative_destination": "online_resource_1/FigS4.png",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "04d405e74769ecab5363642f2999556f18424dd849ed6f02368a1e362033b03a"
+    },
+    {
+      "source_specification": "theory/exact_paths",
+      "relative_destination": "online_resource_1/FigS5.pdf",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "83145f57b776ba89dc8797ca9a3741107aa58a4124bc32e6fedb235317a1c363"
+    },
+    {
+      "source_specification": "theory/exact_paths",
+      "relative_destination": "online_resource_1/FigS5.eps",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "13dada7c591fb8bd0b2fc806ae4d0bc9432ed01f248dfd179ebd58adbb88474c"
+    },
+    {
+      "source_specification": "theory/exact_paths",
+      "relative_destination": "online_resource_1/FigS5.png",
+      "origin": "native TikZ source",
+      "generated_from_machine_readable_source": true,
+      "sha256": "dedfc0a39523a122c328a749f4736b48da445ea9c0c3abb159049d26ec0bab46"
+    },
+    {
+      "source_specification": "synthetic/synthetic_membership_comparison",
+      "relative_destination": "online_resource_1/FigS6.pdf",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "7c38d1d27d844b3555da14053e5a057870a477658ec21231f4a98dbf4c380d39"
+    },
+    {
+      "source_specification": "synthetic/synthetic_membership_comparison",
+      "relative_destination": "online_resource_1/FigS6.eps",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "71654112fdeeac3497e44335e078b7ab6d9c839dd1aed88c3b4285e79a823e6c"
+    },
+    {
+      "source_specification": "synthetic/synthetic_membership_comparison",
+      "relative_destination": "online_resource_1/FigS6.png",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "82853f5b7671371072902533b177134e506d3f32a5ad1666caa9b05e6f2c7503"
+    },
+    {
+      "source_specification": "synthetic/synthetic_coverage_outcome",
+      "relative_destination": "online_resource_1/FigS7.pdf",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "4bde57c4ed013c7da498b440833d2a15873ecf10e3a55aa2573abaa8c9dacba2"
+    },
+    {
+      "source_specification": "synthetic/synthetic_coverage_outcome",
+      "relative_destination": "online_resource_1/FigS7.eps",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "c80ccce64015bd9930726800fa89b815d10d1a73164b7960fbe6df07955d0497"
+    },
+    {
+      "source_specification": "synthetic/synthetic_coverage_outcome",
+      "relative_destination": "online_resource_1/FigS7.png",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "b7f7909243e598be6fa0c3936afb773dd57871eaaf5d70cf158338b98e20aa5f"
+    },
+    {
+      "source_specification": "synthetic/synthetic_path_recurrence",
+      "relative_destination": "online_resource_1/FigS8.pdf",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "7d14ac2a2bfb558298864d797f8e16df4e4cdae2dcf9ef2e87312edc50c3ac82"
+    },
+    {
+      "source_specification": "synthetic/synthetic_path_recurrence",
+      "relative_destination": "online_resource_1/FigS8.eps",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "2de99270d308c59222bba1ce165708d1cf2dcf799aa07f45eefd8aedf73c76a9"
+    },
+    {
+      "source_specification": "synthetic/synthetic_path_recurrence",
+      "relative_destination": "online_resource_1/FigS8.png",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "de7986ac0f892522b5d1fd2950999e775925873684416f06c9d384968e0f0a80"
+    },
+    {
+      "source_specification": "synthetic/synthetic_scaling",
+      "relative_destination": "online_resource_1/FigS9.pdf",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "50976ca50648499a045ef40d64fbba7aa88f2fe4ad816b4f14e57e2aea7989ca"
+    },
+    {
+      "source_specification": "synthetic/synthetic_scaling",
+      "relative_destination": "online_resource_1/FigS9.eps",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "8abac9cc477aa425bd9787f2e228dbaa855fb40a59ce71c4638c84790de25692"
+    },
+    {
+      "source_specification": "synthetic/synthetic_scaling",
+      "relative_destination": "online_resource_1/FigS9.png",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "b9a2ce8770a64656a7f228a9c94eaa1bc21deb4e8dd655c58475fa13a25dd0f2"
+    },
+    {
+      "source_specification": "empirical/coordination_map_audit",
+      "relative_destination": "online_resource_1/FigS10.pdf",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "0bbf69ff51cadcfed98f088549cf0c4383f49c38d105bc40e739f0e326c69fb9"
+    },
+    {
+      "source_specification": "empirical/coordination_map_audit",
+      "relative_destination": "online_resource_1/FigS10.eps",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "0f0558aff5ae105fab65340a07d028c1277901ac00ee19e741517ab44664dc44"
+    },
+    {
+      "source_specification": "empirical/coordination_map_audit",
+      "relative_destination": "online_resource_1/FigS10.png",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "7148fa457862fc22284a8df1cd1c3bf9ba5d2687dca025ff27dc4d4264c2e9ee"
+    },
+    {
+      "source_specification": "empirical/closure_audit",
+      "relative_destination": "online_resource_1/FigS11.pdf",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "f80469a442c70cedf8490c34ada2735b7e19a03c60966303c52ead762895ff7a"
+    },
+    {
+      "source_specification": "empirical/closure_audit",
+      "relative_destination": "online_resource_1/FigS11.eps",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "1bfc5694f8441215c38eadbd0cfcb798140a79799d1dd7608c38b46cb590d505"
+    },
+    {
+      "source_specification": "empirical/closure_audit",
+      "relative_destination": "online_resource_1/FigS11.png",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "e612dd22017be52aef1ba9109dd0a1d77ed41032bfc6fdbe457cb991f5a6fd17"
+    },
+    {
+      "source_specification": "empirical/optimal_path_heatmap",
+      "relative_destination": "online_resource_1/FigS12.pdf",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "98c5e3f075a035a4332d6be41a851eb41b7642fd5237d4e2c849fdd1bc26f6e3"
+    },
+    {
+      "source_specification": "empirical/optimal_path_heatmap",
+      "relative_destination": "online_resource_1/FigS12.eps",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "425d1bb1a37edf2684187bbf68ce9759de0fae859fd6cd4638e6a0682a5cf6c6"
+    },
+    {
+      "source_specification": "empirical/optimal_path_heatmap",
+      "relative_destination": "online_resource_1/FigS12.png",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "62ffd7a8442c6da28bfdf73cf87b4cd62425fc2a1d83d5ee9dc2467212b059f1"
+    },
+    {
+      "source_specification": "empirical/path_utility_progression",
+      "relative_destination": "online_resource_1/FigS13.pdf",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "225cf365dc17fa12870344b6f5c275d424460210ea943a863a7ed2c9a6e4c87e"
+    },
+    {
+      "source_specification": "empirical/path_utility_progression",
+      "relative_destination": "online_resource_1/FigS13.eps",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "033eb787eae9cc20f99bf1a5e27e9c877bc2839a433814a79a9d7bc76ae59fc0"
+    },
+    {
+      "source_specification": "empirical/path_utility_progression",
+      "relative_destination": "online_resource_1/FigS13.png",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "1e1c8aab2185d7c1950405041501a512c3895bb0c75c587024dd634c31b4af9e"
+    },
+    {
+      "source_specification": "empirical/coverage_limitations",
+      "relative_destination": "online_resource_1/FigS14.pdf",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "37e0f2b808ac47e283cadc97b0583a416c0a2e0fbab72eef72c4ccf963f6c55d"
+    },
+    {
+      "source_specification": "empirical/coverage_limitations",
+      "relative_destination": "online_resource_1/FigS14.eps",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "d511fd670b54106002bcb575787e28122fb69c545c45277b980b35a3748c9631"
+    },
+    {
+      "source_specification": "empirical/coverage_limitations",
+      "relative_destination": "online_resource_1/FigS14.png",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "2627ff0162a33693add0f3bb030bd2fad988479ee7ae3030c15f95b7781fe63c"
+    },
+    {
+      "source_specification": "empirical/external_outcome_bootstrap",
+      "relative_destination": "online_resource_1/FigS15.pdf",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "749c387a665374d441443909ccd56d86e375e0dbe694c0b474486f5cf4be686d"
+    },
+    {
+      "source_specification": "empirical/external_outcome_bootstrap",
+      "relative_destination": "online_resource_1/FigS15.eps",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "70dd1287ed2497a8fc419f416e044cf85bfec9f8afc63cbac3d95ab8d5376ff9"
+    },
+    {
+      "source_specification": "empirical/external_outcome_bootstrap",
+      "relative_destination": "online_resource_1/FigS15.png",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "09829c8974436938f9c7aea7d65286df603e7dd6e2a0656d6772d63c6b6ede21"
+    },
+    {
+      "source_specification": "empirical/rolling_origin",
+      "relative_destination": "online_resource_1/FigS16.pdf",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "7bc971f0e3ee4c7965d5b0b01ace455f420a310c704c2f3b54e2797d173ca0b0"
+    },
+    {
+      "source_specification": "empirical/rolling_origin",
+      "relative_destination": "online_resource_1/FigS16.eps",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "d45dcb8cd47405ec0ee4390e21d39ac72d75a1dd2999629418ce0ea84904028a"
+    },
+    {
+      "source_specification": "empirical/rolling_origin",
+      "relative_destination": "online_resource_1/FigS16.png",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "6e4fa2eaa99d9668227a3746d76efa975806c473e3f9e71ce5c8316eb10596cd"
+    },
+    {
+      "source_specification": "empirical/full_refit_stability",
+      "relative_destination": "online_resource_1/FigS17.pdf",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "6dacd479008fa0d1f2272a755451aa3abdb99aa55613e97eda0d0ab1ca86fbb2"
+    },
+    {
+      "source_specification": "empirical/full_refit_stability",
+      "relative_destination": "online_resource_1/FigS17.eps",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "4133a357a05b249ebbcfa8844e112961aa7f9420320934b7369c6cc9c9d6859c"
+    },
+    {
+      "source_specification": "empirical/full_refit_stability",
+      "relative_destination": "online_resource_1/FigS17.png",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "9b7660185673f5d3c8cbee58e76bde8487f678e6e518776ca9061f8ba71f0558"
+    },
+    {
+      "source_specification": "empirical/operator_sensitivity",
+      "relative_destination": "online_resource_1/FigS18.pdf",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "c2e7f772d80aa969d36392a1693d8499eccdeee524af49d1477cf28889ba57ae"
+    },
+    {
+      "source_specification": "empirical/operator_sensitivity",
+      "relative_destination": "online_resource_1/FigS18.eps",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "7e1053bfa9b36366f0d8f9c5a7ed99770522d10907c4ba793157bd1642c5c40c"
+    },
+    {
+      "source_specification": "empirical/operator_sensitivity",
+      "relative_destination": "online_resource_1/FigS18.png",
+      "origin": "machine-readable numerical results",
+      "generated_from_machine_readable_source": true,
+      "sha256": "347d1bd163c86ce8d5b1af4e0b53168b9a381ee1a77a5213938bfafce7d55c52"
+    }
+  ],
+  "missing": [],
+  "formats": [
+    "PDF",
+    "EPS",
+    "PNG"
+  ]
+}

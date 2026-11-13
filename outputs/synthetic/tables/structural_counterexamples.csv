@@ -1,0 +1,3 @@
+Structure,Nodes,Unordered distinct pairs,Ambient join nonclosure count,Ambient join nonclosure rate,Ambient meet nonclosure count,Ambient meet nonclosure rate,Pairs without internal join,Pairs without internal meet,Intrinsic lattice,Classification
+Boolean counterexample,4,6,1,0.16666666666666666,0,0.0,0,0,True,"intrinsic lattice, not an ambient sublattice"
+Exact synthetic pullback,108,5778,0,0.0,0,0.0,0,0,True,ambient sublattice

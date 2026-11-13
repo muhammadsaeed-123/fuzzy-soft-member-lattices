@@ -1,0 +1,15 @@
+Field,Orders varying within order,Percent
+Market,0,0
+Customer Segment,0,0
+Shipping Mode,0,0
+Delivery Status,0,0
+Order Status,0,0
+Type,0,0
+Days for shipping (real),0,0
+Days for shipment (scheduled),0,0
+Late_delivery_risk,0,0
+Customer Id,0,0
+order date (DateOrders),0,0
+Department Name,41471,63.071845723324003
+Order Profit Per Order,45902,69.810804234091734
+Sales - discount - net total (max absolute discrepancy),,0.010013549999996485

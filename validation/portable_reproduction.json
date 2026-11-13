@@ -1,0 +1,216 @@
+{
+  "entry_point_completed": true,
+  "table_checks": [
+    {
+      "file": "article/closure.tex",
+      "same_bytes": true
+    },
+    {
+      "file": "article/selected_path.tex",
+      "same_bytes": true
+    },
+    {
+      "file": "article/validation.tex",
+      "same_bytes": true
+    },
+    {
+      "file": "resource1/closure.tex",
+      "same_bytes": true
+    },
+    {
+      "file": "resource1/common_cohort.tex",
+      "same_bytes": true
+    },
+    {
+      "file": "resource1/coordination_map_audit.tex",
+      "same_bytes": true
+    },
+    {
+      "file": "resource1/descriptive_statistics.tex",
+      "same_bytes": true
+    },
+    {
+      "file": "resource1/evidence_transport.tex",
+      "same_bytes": true
+    },
+    {
+      "file": "resource1/external_bootstrap.tex",
+      "same_bytes": true
+    },
+    {
+      "file": "resource1/field_audit.tex",
+      "same_bytes": true
+    },
+    {
+      "file": "resource1/fixed_k.tex",
+      "same_bytes": true
+    },
+    {
+      "file": "resource1/full_path.tex",
+      "same_bytes": true
+    },
+    {
+      "file": "resource1/full_refit.tex",
+      "same_bytes": true
+    },
+    {
+      "file": "resource1/inner_grid.tex",
+      "same_bytes": true
+    },
+    {
+      "file": "resource1/market_split.tex",
+      "same_bytes": true
+    },
+    {
+      "file": "resource1/operator.tex",
+      "same_bytes": true
+    },
+    {
+      "file": "resource1/optimality.tex",
+      "same_bytes": true
+    },
+    {
+      "file": "resource1/raw_path.tex",
+      "same_bytes": true
+    },
+    {
+      "file": "resource1/representative_levels.tex",
+      "same_bytes": true
+    },
+    {
+      "file": "resource1/rolling.tex",
+      "same_bytes": true
+    },
+    {
+      "file": "resource1/synthetic_methods.tex",
+      "same_bytes": true
+    },
+    {
+      "file": "resource1/synthetic_scaling.tex",
+      "same_bytes": true
+    },
+    {
+      "file": "resource1/validation.tex",
+      "same_bytes": true
+    }
+  ],
+  "png_checks": [
+    {
+      "file": "main_article/Fig7.png",
+      "same_bytes": true
+    },
+    {
+      "file": "main_article/Fig1.png",
+      "same_bytes": true
+    },
+    {
+      "file": "main_article/Fig3.png",
+      "same_bytes": true
+    },
+    {
+      "file": "main_article/Fig2.png",
+      "same_bytes": true
+    },
+    {
+      "file": "main_article/Fig5.png",
+      "same_bytes": true
+    },
+    {
+      "file": "main_article/Fig10.png",
+      "same_bytes": true
+    },
+    {
+      "file": "main_article/Fig11.png",
+      "same_bytes": true
+    },
+    {
+      "file": "main_article/Fig8.png",
+      "same_bytes": true
+    },
+    {
+      "file": "main_article/Fig6.png",
+      "same_bytes": true
+    },
+    {
+      "file": "main_article/Fig9.png",
+      "same_bytes": true
+    },
+    {
+      "file": "main_article/Fig4.png",
+      "same_bytes": true
+    },
+    {
+      "file": "online_resource_1/FigS14.png",
+      "same_bytes": true
+    },
+    {
+      "file": "online_resource_1/FigS9.png",
+      "same_bytes": true
+    },
+    {
+      "file": "online_resource_1/FigS17.png",
+      "same_bytes": true
+    },
+    {
+      "file": "online_resource_1/FigS3.png",
+      "same_bytes": true
+    },
+    {
+      "file": "online_resource_1/FigS18.png",
+      "same_bytes": true
+    },
+    {
+      "file": "online_resource_1/FigS11.png",
+      "same_bytes": true
+    },
+    {
+      "file": "online_resource_1/FigS2.png",
+      "same_bytes": true
+    },
+    {
+      "file": "online_resource_1/FigS15.png",
+      "same_bytes": true
+    },
+    {
+      "file": "online_resource_1/FigS7.png",
+      "same_bytes": true
+    },
+    {
+      "file": "online_resource_1/FigS4.png",
+      "same_bytes": true
+    },
+    {
+      "file": "online_resource_1/FigS12.png",
+      "same_bytes": true
+    },
+    {
+      "file": "online_resource_1/FigS10.png",
+      "same_bytes": true
+    },
+    {
+      "file": "online_resource_1/FigS8.png",
+      "same_bytes": true
+    },
+    {
+      "file": "online_resource_1/FigS16.png",
+      "same_bytes": true
+    },
+    {
+      "file": "online_resource_1/FigS13.png",
+      "same_bytes": true
+    },
+    {
+      "file": "online_resource_1/FigS1.png",
+      "same_bytes": true
+    },
+    {
+      "file": "online_resource_1/FigS5.png",
+      "same_bytes": true
+    },
+    {
+      "file": "online_resource_1/FigS6.png",
+      "same_bytes": true
+    }
+  ],
+  "overall_status": "PASS"
+}

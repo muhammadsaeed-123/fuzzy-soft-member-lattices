@@ -1,0 +1,25 @@
+{
+  "baseline_path_nodes": 11,
+  "exact_pullback_nodes": 108,
+  "exact_recovery_rate": 0.0,
+  "fitted_graph_covers": 359,
+  "fitted_graph_nodes": 137,
+  "intrinsic_lattice": false,
+  "median_edge_jaccard": 0.17647058823529413,
+  "median_node_jaccard": 0.3333333333333333,
+  "observations": 2000,
+  "outer_holdout": 600,
+  "outer_training": 1400,
+  "second_path_relative_gap_percent": 0.10224537484161102,
+  "seed": 20260825,
+  "selected_configuration": {
+    "beta": 0.15,
+    "delta": 1,
+    "membership": "rank_only",
+    "n_min": 3,
+    "rank_gap_cost": 0.0
+  },
+  "source_target_path_count": 159986,
+  "tolerance_relation_nodes": 576,
+  "top_path_mean_utility": 0.5824276912297703
+}

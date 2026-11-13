@@ -1,0 +1,5 @@
+Method,Compatible holdout orders,Point Spearman correlation,Bootstrap CI low,Bootstrap CI high,Requested replicates,Valid replicates,Resampling unit
+Full joint-support model,976,0.035083464428079691,-0.026752032254657075,0.095391017360091798,2000,2000,customer within market
+Quality-only,976,-0.0098220918316198405,-0.074475428025423257,0.052689281253750157,2000,2000,customer within market
+Ordinal-score ablation,976,-0.0099462385856992474,-0.074572097874697846,0.053010872840793151,2000,2000,customer within market
+Marginal-support construction,976,0.035285888938515544,-0.027840984576932487,0.094355222675923028,2000,2000,customer within market

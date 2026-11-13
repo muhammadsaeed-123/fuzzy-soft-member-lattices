@@ -1,0 +1,21 @@
+Market,Method,Compatible holdout orders,Spearman correlation of negative distance with signed status,Radius-one orders,Radius-one mean signed status score
+Africa,Full joint-support model,23,0.18111284446595752,3,1
+Africa,Quality-only,23,0.2548995588780143,3,1
+Africa,Ordinal-score ablation,23,0.2548995588780143,3,1
+Africa,Marginal-support construction,23,0.10868914445881556,3,1
+Europe,Full joint-support model,220,0.093706876288385879,21,0.7142857142857143
+Europe,Quality-only,220,0.10095397711302175,12,0.66666666666666663
+Europe,Ordinal-score ablation,220,0.10095397711302175,12,0.66666666666666663
+Europe,Marginal-support construction,220,0.0910715711846143,45,0.51111111111111107
+LATAM,Full joint-support model,127,0.086766205162149751,18,0.3888888888888889
+LATAM,Quality-only,127,0.051408601542108051,19,0.47368421052631576
+LATAM,Ordinal-score ablation,127,0.051832185030039148,18,0.5
+LATAM,Marginal-support construction,127,0.083690227203039175,23,0.39130434782608697
+Pacific Asia,Full joint-support model,543,-0.03264353821662274,68,0.4264705882352941
+Pacific Asia,Quality-only,543,-0.060970593504029266,37,0.29729729729729731
+Pacific Asia,Ordinal-score ablation,543,-0.060970593504029266,37,0.29729729729729731
+Pacific Asia,Marginal-support construction,543,-0.025369288458140894,104,0.42307692307692307
+USCA,Full joint-support model,63,0.16819640258476734,6,0.66666666666666663
+USCA,Quality-only,63,-0.0015301390288954874,9,0.44444444444444442
+USCA,Ordinal-score ablation,63,-0.0045923932446352862,10,0.40000000000000002
+USCA,Marginal-support construction,63,0.12842818186330449,5,0.40000000000000002

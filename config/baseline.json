@@ -1,0 +1,42 @@
+{
+  "dataset": {
+    "title": "DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS",
+    "version": 5,
+    "doi": "10.17632/8gx2fvg2k6.5",
+    "transaction_file": "data/DataCoSupplyChainDataset.csv",
+    "encoding": "latin1",
+    "expected_data_rows": 180519,
+    "expected_sha256": "fa6d022ed437155e1a2f0378710602848703c8a7f203f7ff5d77805bf8480aa6"
+  },
+  "seed": 20260819,
+  "split": {
+    "type": "market-stratified chronological",
+    "training_fraction": 0.8
+  },
+  "membership": {
+    "winsor_lower": 0.01,
+    "winsor_upper": 0.99,
+    "epsilon": 0.05,
+    "continuous_levels": {
+      "unit_value": 4,
+      "discount_preservation": 4,
+      "order_scale": 4,
+      "net_revenue": 5,
+      "order_profit": 5,
+      "profit_margin": 4
+    }
+  },
+  "local_lattices": {
+    "commercial": [4, 4, 4],
+    "logistics": [4, 4, 2],
+    "financial_response": [5, 5, 4]
+  },
+  "coordination_lattice": [4, 2],
+  "minimum_joint_support": 3,
+  "evidence_weight_beta": 0.15,
+  "quality_weight": 0.85,
+  "neighborhood_radius_l1": 1,
+  "cluster_bootstrap_replicates": 2000,
+  "support_transport_bootstrap_replicates": 1000,
+  "complete_refit_bootstrap_replicates": 500
+}

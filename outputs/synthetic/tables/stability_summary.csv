@@ -1,0 +1,2 @@
+replicates,successful_paths,exact_path_recoveries,exact_recovery_rate,median_node_jaccard,median_edge_jaccard,median_path_nodes,consensus_path_nodes,consensus_recurrence_score,consensus_common_cohort_spearman,consensus_matched_coverage_outcome
+200,200,0,0.0,0.3333333333333333,0.17647058823529413,11.0,11,0.6536363636363638,0.05754344743309576,0.675

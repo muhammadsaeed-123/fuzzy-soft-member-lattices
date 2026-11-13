@@ -1,0 +1,526 @@
+{
+  "overall_status": "PASS",
+  "summary": {
+    "total": 89,
+    "passed": 89,
+    "failed": 0
+  },
+  "checks": [
+    {
+      "item": "results.raw_rows",
+      "status": "pass",
+      "expected": 180519,
+      "actual": 180519
+    },
+    {
+      "item": "results.orders",
+      "status": "pass",
+      "expected": 65752,
+      "actual": 65752
+    },
+    {
+      "item": "results.train_orders",
+      "status": "pass",
+      "expected": 52599,
+      "actual": 52599
+    },
+    {
+      "item": "results.holdout_orders",
+      "status": "pass",
+      "expected": 13153,
+      "actual": 13153
+    },
+    {
+      "item": "results.full_pullback_nodes",
+      "status": "pass",
+      "expected": 3200,
+      "actual": 3200
+    },
+    {
+      "item": "results.full_pullback_covers",
+      "status": "pass",
+      "expected": 14240,
+      "actual": 14240
+    },
+    {
+      "item": "results.joint_nodes",
+      "status": "pass",
+      "expected": 181,
+      "actual": 181
+    },
+    {
+      "item": "results.joint_covers",
+      "status": "pass",
+      "expected": 485,
+      "actual": 485
+    },
+    {
+      "item": "results.marginal_nodes",
+      "status": "pass",
+      "expected": 512,
+      "actual": 512
+    },
+    {
+      "item": "results.marginal_covers",
+      "status": "pass",
+      "expected": 1612,
+      "actual": 1612
+    },
+    {
+      "item": "results.joint_ambient_join_nonclosure_rate_unordered",
+      "status": "pass",
+      "expected": 0.3794352363413137,
+      "actual": 0.3794352363413137
+    },
+    {
+      "item": "results.joint_ambient_meet_nonclosure_rate_unordered",
+      "status": "pass",
+      "expected": 0.10804174340085942,
+      "actual": 0.10804174340085942
+    },
+    {
+      "item": "results.joint_intrinsic_lattice",
+      "status": "pass",
+      "expected": false,
+      "actual": false
+    },
+    {
+      "item": "results.joint_pairs_without_internal_join",
+      "status": "pass",
+      "expected": 2096,
+      "actual": 2096
+    },
+    {
+      "item": "results.joint_pairs_without_internal_meet",
+      "status": "pass",
+      "expected": 1046,
+      "actual": 1046
+    },
+    {
+      "item": "results.path_count",
+      "status": "pass",
+      "expected": 24870,
+      "actual": 24870
+    },
+    {
+      "item": "results.path_nodes",
+      "status": "pass",
+      "expected": 10,
+      "actual": 10
+    },
+    {
+      "item": "results.optimal_mean",
+      "status": "pass",
+      "expected": 0.5179137537919203,
+      "actual": 0.5179137537919203
+    },
+    {
+      "item": "results.second_best",
+      "status": "pass",
+      "expected": 0.5173623177959996,
+      "actual": 0.5173623177959996
+    },
+    {
+      "item": "results.relative_gap_percent",
+      "status": "pass",
+      "expected": 0.10647255298460678,
+      "actual": 0.10647255298460678
+    },
+    {
+      "item": "results.holdout_utility_frozen_training_scale",
+      "status": "pass",
+      "expected": 0.46711326560649874,
+      "actual": 0.46711326560649874
+    },
+    {
+      "item": "results.mean_signed_order_status_score_radius_one",
+      "status": "pass",
+      "expected": 0.5,
+      "actual": 0.5
+    },
+    {
+      "item": "results.radius_one_orders",
+      "status": "pass",
+      "expected": 116,
+      "actual": 116
+    },
+    {
+      "item": "results.radius_one_share_complete_holdout",
+      "status": "pass",
+      "expected": 0.00881928077244735,
+      "actual": 0.00881928077244735
+    },
+    {
+      "item": "results.evidence_spearman",
+      "status": "pass",
+      "expected": 0.6868801263513467,
+      "actual": 0.6868801263513467
+    },
+    {
+      "item": "results.full_refit_replicates",
+      "status": "pass",
+      "expected": 500,
+      "actual": 500
+    },
+    {
+      "item": "results.full_refit_exact_recoveries",
+      "status": "pass",
+      "expected": 7,
+      "actual": 7
+    },
+    {
+      "item": "results.full_refit_exact_recovery_rate",
+      "status": "pass",
+      "expected": 0.014,
+      "actual": 0.014
+    },
+    {
+      "item": "results.full_refit_exact_ci_low",
+      "status": "pass",
+      "expected": 0.005646761070671558,
+      "actual": 0.005646761070671558
+    },
+    {
+      "item": "results.full_refit_exact_ci_high",
+      "status": "pass",
+      "expected": 0.02863161618333614,
+      "actual": 0.02863161618333614
+    },
+    {
+      "item": "results.median_node_jaccard",
+      "status": "pass",
+      "expected": 0.35294117647058826,
+      "actual": 0.35294117647058826
+    },
+    {
+      "item": "results.node_jaccard_2_5pct",
+      "status": "pass",
+      "expected": 0.16666666666666666,
+      "actual": 0.16666666666666666
+    },
+    {
+      "item": "results.node_jaccard_97_5pct",
+      "status": "pass",
+      "expected": 0.9,
+      "actual": 0.9
+    },
+    {
+      "item": "results.median_edge_jaccard",
+      "status": "pass",
+      "expected": 0.2,
+      "actual": 0.2
+    },
+    {
+      "item": "results.median_path_length",
+      "status": "pass",
+      "expected": 10.0,
+      "actual": 10.0
+    },
+    {
+      "item": "results.median_feasible_nodes",
+      "status": "pass",
+      "expected": 180.0,
+      "actual": 180.0
+    },
+    {
+      "item": "closure_audit.csv",
+      "status": "pass",
+      "rows": 3,
+      "columns": 12
+    },
+    {
+      "item": "common_cohort_distance_association.csv",
+      "status": "pass",
+      "rows": 4,
+      "columns": 4
+    },
+    {
+      "item": "common_cohort_distance_bootstrap.csv",
+      "status": "pass",
+      "rows": 4,
+      "columns": 8
+    },
+    {
+      "item": "common_cohort_distance_bootstrap_replicates.csv",
+      "status": "pass",
+      "rows": 8000,
+      "columns": 3
+    },
+    {
+      "item": "common_cohort_distance_data.csv",
+      "status": "pass",
+      "rows": 976,
+      "columns": 10
+    },
+    {
+      "item": "common_cohort_market_summary.csv",
+      "status": "pass",
+      "rows": 20,
+      "columns": 6
+    },
+    {
+      "item": "coordination_map_audit.csv",
+      "status": "pass",
+      "rows": 5,
+      "columns": 3
+    },
+    {
+      "item": "coordination_map_downstream_audit.csv",
+      "status": "pass",
+      "rows": 5,
+      "columns": 14
+    },
+    {
+      "item": "customer_overlap.csv",
+      "status": "pass",
+      "rows": 1,
+      "columns": 6
+    },
+    {
+      "item": "dataset_summary.csv",
+      "status": "pass",
+      "rows": 8,
+      "columns": 2
+    },
+    {
+      "item": "descriptive_statistics.csv",
+      "status": "pass",
+      "rows": 9,
+      "columns": 9
+    },
+    {
+      "item": "deterministic_dependency_audit.csv",
+      "status": "pass",
+      "rows": 3,
+      "columns": 4
+    },
+    {
+      "item": "evidence_transport.csv",
+      "status": "pass",
+      "rows": 1,
+      "columns": 4
+    },
+    {
+      "item": "exploratory_method_specific_bootstrap.csv",
+      "status": "pass",
+      "rows": 3,
+      "columns": 6
+    },
+    {
+      "item": "external_outcome_bootstrap.csv",
+      "status": "pass",
+      "rows": 3,
+      "columns": 6
+    },
+    {
+      "item": "external_outcome_bootstrap_replicates.csv",
+      "status": "pass",
+      "rows": 6000,
+      "columns": 3
+    },
+    {
+      "item": "field_audit.csv",
+      "status": "pass",
+      "rows": 14,
+      "columns": 3
+    },
+    {
+      "item": "fixed_k_coverage_profile.csv",
+      "status": "pass",
+      "rows": 12,
+      "columns": 7
+    },
+    {
+      "item": "full_pullback_edges.csv",
+      "status": "pass",
+      "rows": 14240,
+      "columns": 5
+    },
+    {
+      "item": "full_refit_bootstrap.csv",
+      "status": "pass",
+      "rows": 500,
+      "columns": 11
+    },
+    {
+      "item": "full_refit_edge_frequency.csv",
+      "status": "pass",
+      "rows": 294,
+      "columns": 3
+    },
+    {
+      "item": "full_refit_node_frequency.csv",
+      "status": "pass",
+      "rows": 105,
+      "columns": 3
+    },
+    {
+      "item": "full_refit_summary.csv",
+      "status": "pass",
+      "rows": 1,
+      "columns": 11
+    },
+    {
+      "item": "inner_benchmark_grid.csv",
+      "status": "pass",
+      "rows": 30,
+      "columns": 8
+    },
+    {
+      "item": "joint_cover_edges.csv",
+      "status": "pass",
+      "rows": 485,
+      "columns": 5
+    },
+    {
+      "item": "joint_intrinsic_lattice_witnesses.csv",
+      "status": "pass",
+      "rows": 2967,
+      "columns": 10
+    },
+    {
+      "item": "joint_node_support.csv",
+      "status": "pass",
+      "rows": 181,
+      "columns": 10
+    },
+    {
+      "item": "lattice_summary.csv",
+      "status": "pass",
+      "rows": 3,
+      "columns": 6
+    },
+    {
+      "item": "marginal_cover_edges.csv",
+      "status": "pass",
+      "rows": 1612,
+      "columns": 5
+    },
+    {
+      "item": "marginal_intrinsic_lattice_witnesses.csv",
+      "status": "pass",
+      "rows": 2112,
+      "columns": 10
+    },
+    {
+      "item": "market_split.csv",
+      "status": "pass",
+      "rows": 5,
+      "columns": 6
+    },
+    {
+      "item": "method_specific_radius_one_validation.csv",
+      "status": "pass",
+      "rows": 4,
+      "columns": 14
+    },
+    {
+      "item": "operator_sensitivity.csv",
+      "status": "pass",
+      "rows": 5,
+      "columns": 4
+    },
+    {
+      "item": "optimal_path.csv",
+      "status": "pass",
+      "rows": 10,
+      "columns": 20
+    },
+    {
+      "item": "optimality_audit.csv",
+      "status": "pass",
+      "rows": 1,
+      "columns": 9
+    },
+    {
+      "item": "order_structure_audit.csv",
+      "status": "pass",
+      "rows": 3,
+      "columns": 12
+    },
+    {
+      "item": "path_enumeration.csv",
+      "status": "pass",
+      "rows": 24870,
+      "columns": 8
+    },
+    {
+      "item": "radius_coverage_profile.csv",
+      "status": "pass",
+      "rows": 16,
+      "columns": 10
+    },
+    {
+      "item": "representative_levels.csv",
+      "status": "pass",
+      "rows": 36,
+      "columns": 8
+    },
+    {
+      "item": "rolling_origin.csv",
+      "status": "pass",
+      "rows": 3,
+      "columns": 9
+    },
+    {
+      "item": "source_terminal_sensitivity.csv",
+      "status": "pass",
+      "rows": 2,
+      "columns": 7
+    },
+    {
+      "item": "status_distribution.csv",
+      "status": "pass",
+      "rows": 36,
+      "columns": 6
+    },
+    {
+      "item": "utility_weight_sensitivity.csv",
+      "status": "pass",
+      "rows": 6,
+      "columns": 7
+    },
+    {
+      "item": "validation.csv",
+      "status": "pass",
+      "rows": 4,
+      "columns": 14
+    },
+    {
+      "item": "closure_audit.pdf",
+      "status": "pass"
+    },
+    {
+      "item": "coordination_map_audit.pdf",
+      "status": "pass"
+    },
+    {
+      "item": "coverage_limitations.pdf",
+      "status": "pass"
+    },
+    {
+      "item": "external_outcome_bootstrap.pdf",
+      "status": "pass"
+    },
+    {
+      "item": "full_refit_stability.pdf",
+      "status": "pass"
+    },
+    {
+      "item": "operator_sensitivity.pdf",
+      "status": "pass"
+    },
+    {
+      "item": "optimal_path_heatmap.pdf",
+      "status": "pass"
+    },
+    {
+      "item": "path_utility_progression.pdf",
+      "status": "pass"
+    },
+    {
+      "item": "rolling_origin.pdf",
+      "status": "pass"
+    }
+  ]
+}
