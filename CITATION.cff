@@ -10,11 +10,15 @@ authors:
     affiliation: "Department of Mathematics, University of Management and Technology, Lahore, Pakistan"
   - family-names: Saeed
     given-names: Muhammad
-    email: muhammad.saeed@umt.edu.pk
     affiliation: "Department of Mathematics, University of Management and Technology, Lahore, Pakistan"
   - family-names: Saeed
     given-names: Muhammad Haris
     affiliation: "Department of Chemistry, University of Management and Technology, Lahore, Pakistan"
+  - family-names: Khan
+    given-names: Zeshan Aslam
+    email: zeshank@yuntech.edu.tw
+    orcid: "https://orcid.org/0000-0003-3902-5814"
+    affiliation: "International Graduate School of Artificial Intelligence, National Yunlin University of Science and Technology, Douliu, Taiwan"
 keywords:
   - fuzzy-soft members
   - lattice collaboration

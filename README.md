@@ -4,7 +4,7 @@
 
 This repository contains the transaction input, analysis code, exact mathematical examples, native TikZ figures, numerical tables and validation material supporting the article and Online Resource 1.
 
-**Authors:** Amna Wasim, Muhammad Saeed (corresponding author, muhammad.saeed@umt.edu.pk) and Muhammad Haris Saeed — University of Management and Technology, Lahore, Pakistan.
+**Authors:** Amna Wasim, Muhammad Saeed, Muhammad Haris Saeed (University of Management and Technology, Lahore, Pakistan) and Zeshan Aslam Khan (corresponding author, zeshank@yuntech.edu.tw; National Yunlin University of Science and Technology, Douliu, Taiwan).
 
 **How to cite:** use the *Cite this repository* button on the GitHub page (generated from `CITATION.cff`) or the citation shown on the Zenodo record, which carries the permanent DOI of each archived release.
 
